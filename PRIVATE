@@ -1,8 +1,4 @@
-# VPS list
+# PRIVATE list
 
-IP-CIDR,104.194.240.12/32,no-resolve
-IP-CIDR,101.43.151.53/32,no-resolve
-IP-CIDR,91.134.238.131,no-resolve
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,hostinger.com
-DOMAIN-SUFFIX,aria2.iloli.li
