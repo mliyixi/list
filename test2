@@ -5,8 +5,8 @@
 # 您可以在使用后手动将本模块禁用，以免产生不必要的MITM.
 # GitHub主页(https://github.com/nzw9314)
 # TG通知频道 (https://t.me/nzw9314News)
+# 访问: http://boxjs.com管理
 
-# ---(By blackmatrix7)---
 # > Zhihu
 # 知乎处理用户信息
 ^https?:\/\/api\.zhihu\.com\/people\/ url script-response-body https://gist.githubusercontent.com/blackmatrix7/2e550ebf28ca60d620654e394ec47e0b/raw/zhihu.js
